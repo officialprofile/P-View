@@ -1,2 +1,2 @@
-# P-View
-3D structure protein viewer
+## P-View
+This application will be based on biopython and tkinter.
