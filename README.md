@@ -1,6 +1,3 @@
-## Protein Viewer
+<p align="center"><img src="img/logo.png" width="200px"/></p>
 
-<center><img src="img/logo.png" width="200px" /></center>
-
-
-This application will be based on biopython and PyQt5.
+Application based on biopython and PyQt5. More information will be revealed soon.
